@@ -4,5 +4,6 @@ Download the zip folder, go to the browser's extension page, enable dev mode and
 
 Alternatives:
 
-1 - You can you configure you adblocker of choice so it blocks the element: ```standalone-footer```;<br>
-2. On the Wordle page, open dev tools, go to Console and paste the following snippet:```document.getElementById('standalone-footer').remove()```
+#1 - You can configure you adblocker of choice so it blocks the element: ```standalone-footer```;<br><br>
+
+#2 - On the Wordle page, open dev tools, go to Console and paste the following snippet:```document.getElementById('standalone-footer').remove()```
