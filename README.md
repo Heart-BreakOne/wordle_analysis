@@ -1,5 +1,7 @@
 ## Chrome extension to remove the paywall and read the Wordle analysis.
 
+[Download WordleAnalysis extension for Chrome](https://chromewebstore.google.com/detail/wordleanalysis/cfangbjieglocpgfdnkcmngachefkgoo) - Not available in some countries.
+
 Download the zip folder, go to the browser's extension page, enable dev mode and select load unpacked extension.
 
 Alternatives:
