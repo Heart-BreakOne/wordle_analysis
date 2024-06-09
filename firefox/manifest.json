@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "WordleBot Bypass",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bypass Wordle Bot paywall and review your wordle stats",
   "content_scripts": [
     {
@@ -9,7 +9,7 @@
         "content_script.js"
       ],
       "matches": [
-        "https://www.nytimes.com/games/*"
+        "https://www.nytimes.com/*"
       ]
     }
   ],
