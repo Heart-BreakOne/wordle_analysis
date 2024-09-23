@@ -1,7 +1,7 @@
 {
    "manifest_version": 3,
    "name": "WordleBot Bypass",
-   "version": "0.0.2",
+   "version": "0.0.3",
    "action": {
       "default_popup": "popup.html",
       "default_icon": {
@@ -23,5 +23,11 @@
             "https://www.nytimes.com/*"
          ]
       }
-   ]
+   ],
+   "web_accessible_resources": [
+    {
+      "resources": ["wordlebot.png"],
+      "matches": ["<all_urls>"]
+    }
+  ]
 }
